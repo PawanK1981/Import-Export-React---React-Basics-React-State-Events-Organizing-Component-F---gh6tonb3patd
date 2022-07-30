@@ -11,13 +11,11 @@ import SubmitButton from "../components/SubmitButton.js";
 const App = () => {
   return (
     <div id="main">
-      < Heading/>
-      < InputQuery/>
-      < SubHeading/>
-      < SubmitButton/>
+      <Heading/>
+      <InputQuery/>
+      <SubHeading/>
+      <SubmitButton/>
     </div>
   )
 }
-
-
-
+export default App;
